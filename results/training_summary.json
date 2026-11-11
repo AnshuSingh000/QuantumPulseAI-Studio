@@ -1,0 +1,5 @@
+{
+  "best_validation_infidelity": 0.10059214383363724,
+  "held_out_test_mean_fidelity": 0.9043608903884888,
+  "epochs": 120
+}
